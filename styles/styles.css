@@ -1,0 +1,55 @@
+body {
+    font-family: cursive;
+    font-size: 16px;
+    color: white;
+    background-color: midnightblue;
+}
+a {color: white;
+text-decoration: underline;
+}
+a:visited {color: yellow;}
+li {
+    font-weight: normal;
+    font-style: normal;
+}
+.fishListHeading {
+    font-weight: bold;
+}
+h1 {text-align: center;}
+.common {
+    border-color: white;
+    border: 2px solid white;
+    position: absolute;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 95px;
+    border-bottom: solid 2px white;
+    margin-bottom: 25px;
+}
+.leftsection {
+    top: 460px;
+    left: 5px;
+    width: 400px;
+    height: 620px;
+
+}
+.centersection {
+    top: 460px;
+    left: 406px;
+    right: 422px;
+    height: 610px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.rightsection {
+    top: 460px;
+    right: 5px;
+    width: 400px;
+    height: 610px;
+    padding-top: 10px;
+    padding-left: 15px;
+    
+}
